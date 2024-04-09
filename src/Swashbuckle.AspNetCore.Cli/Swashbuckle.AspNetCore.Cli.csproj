@@ -5,7 +5,7 @@
     <Description>Swashbuckle (Swagger) Command Line Tools</Description>
     <OutputType>Exe</OutputType>
     <PackAsTool>true</PackAsTool>
-    <PackageId>Swashbuckle.AspNetCore.Cli</PackageId>
+    <PackageId>Swashbuckle.AspNetCore.Cli.Gpn</PackageId>
     <TargetFrameworks>netcoreapp2.1;netcoreapp3.0;net5.0;net6.0;net7.0</TargetFrameworks>
     <ToolCommandName>swagger</ToolCommandName>
   </PropertyGroup>
