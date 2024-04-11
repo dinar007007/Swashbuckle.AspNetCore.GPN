@@ -1549,7 +1549,7 @@ It's packaged as a [.NET Core Tool](https://docs.microsoft.com/en-us/dotnet/core
 1. Install as a [global tool](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools#install-a-global-tool)
 
     ```
-    dotnet tool install -g --version 6.5.0 Swashbuckle.AspNetCore.Cli
+    dotnet tool install -g --version 6.5.1 Swashbuckle.AspNetCore.Cli.Gpn
     ```
 
 2. Verify that the tool was installed correctly
